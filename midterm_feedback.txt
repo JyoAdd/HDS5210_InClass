@@ -1,0 +1,4 @@
+Your Dyspnea normalization was incorrect. If you review your code, there isn't a set of descriptions that align to the Zero value.
+
+Also you repeated all of your functions in the main business logic rather than using the functions that you had developed. 
+Please let me know if this is a topic that I need to revisit in the next few weeks.
